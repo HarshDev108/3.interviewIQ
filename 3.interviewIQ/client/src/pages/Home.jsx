@@ -134,7 +134,7 @@ function Home() {
   key={index}
   onClick={() => {
     if (item.step === "STEP 1") {
-      window.open("https://your-link.com", "_blank"); // 👉 your URL
+      window.open("https://assessnce-academy.vercel.app/", "_blank"); // 👉 your URL
     }
   }}
   initial={{ opacity: 0, y: 60 }}
